@@ -56,9 +56,11 @@
 - 테이블 위치 설정 기능
 - 인터페이스 향상
 
-진민혁: 시스템 설계, ROS2 통신, 데이터베이스 구현
-서연우: GUI 설계, ROS2 통신 구현
+## 담당 업무
+- 진민혁: 시스템 설계, ROS2 통신, 데이터베이스 구현
+- 서연우: GUI 설계, ROS2 통신 구현
 
+## 발표 자료 내용
 ![alt text](https://github.com/idingg/table-order/blob/main/images/dbscheme.png?raw=true)
 ![alt text](https://github.com/idingg/table-order/blob/main/images/1.png?raw=true)
 ![alt text](https://github.com/idingg/table-order/blob/main/images/2.png?raw=true)
