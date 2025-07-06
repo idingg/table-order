@@ -25,18 +25,12 @@
 - 작업별 신뢰성과 성능을 고려한 토픽/서비스/액션 QoS 최적화
 
 ## 사용 기술
-- 로봇 프레임워크
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
-- 프로그래밍 언어
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-- GUI 프레임워크
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-- 데이터베이스
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-- 시뮬레이션
-<img src="https://img.shields.io/badge/Gazebo-F5820D?style=for-the-badge&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white">
-- 디자인 도구
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+- 로봇 프레임워크: <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+- 프로그래밍 언어: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- GUI 프레임워크: <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+- 데이터베이스: <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+- 시뮬레이션: <img src="https://img.shields.io/badge/Gazebo-F5820D?style=for-the-badge&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white">
+- 디자인 도구: <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ## 시스템 아키텍처
 ### 노드
@@ -60,7 +54,7 @@
 - 진민혁: 시스템 설계, ROS2 통신, 데이터베이스 구현
 - 서연우: GUI 설계, ROS2 통신 구현
 
-## 발표 자료 내용
+## 발표 자료 주요 내용
 ![alt text](https://github.com/idingg/table-order/blob/main/images/dbscheme.png?raw=true)
 ![alt text](https://github.com/idingg/table-order/blob/main/images/1.png?raw=true)
 ![alt text](https://github.com/idingg/table-order/blob/main/images/2.png?raw=true)
