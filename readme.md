@@ -34,7 +34,7 @@
 
 ## 시스템 아키텍처
 ### 노드
-![alt text](https://github.com/idingg/table-order/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/idingg/table-order/blob/main/images/node.png?raw=true)
 
 ### 통신
 - Topic: 화재 경보, 실시간 상태 업데이트
